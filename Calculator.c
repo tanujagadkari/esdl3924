@@ -8,3 +8,9 @@ void main()
   //Add calculator function here
   
 }
+
+int add(int p,int q)
+{
+  return p+q;
+  
+}
